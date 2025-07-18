@@ -25,7 +25,7 @@ A smart traffic light control system using **Arduino Uno** and **IR sensor**, si
 
 ## 🌐 Tinkercad Simulation
 
-🔗 [Open Project in Tinkercad](https://www.tinkercad.com/things/KGAWGn8V3tR-traffic-/editel?sharecode=94LqdxVZLgp:whydyfE3sj2?BifTyhmnRiKCEZbYjAQ)
+🔗 [Open Project in Tinkercad](https://www.tinkercad.com/things/kGAWGn8V3tR-mayar-waleed-nawas-emergency-traffic-light-management-system)
 
 <iframe width="725" height="453" src="https://www.tinkercad.com/embed/kGAWGn8V3tR?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
@@ -33,7 +33,7 @@ A smart traffic light control system using **Arduino Uno** and **IR sensor**, si
 
 ## 📄 Project Report
 
-📥 [Mayar Waleed Nawas 120220147 (TLMS)2.pdf](./Mayar%20Waleed%20Nawas%20120220147%20(TLMS)2.pdf)
+📥 [Mayar Waleed Nawas 120220147 (TLMS)2.pdf](./MayarWaleedNawas120220147(TLMS)2.pdf)
 
 ---
 
@@ -42,5 +42,3 @@ A smart traffic light control system using **Arduino Uno** and **IR sensor**, si
 ![Traffic Light System](./IMG_4515.png)
 ![Traffic Light System](./IMG_4516.png)
 ![Traffic Light System](./IMG_4517.png)
-
-> Replace `project-image.png` with your actual image file name, or remove this section if no image is added.
