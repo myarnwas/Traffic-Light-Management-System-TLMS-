@@ -39,6 +39,8 @@ A smart traffic light control system using **Arduino Uno** and **IR sensor**, si
 
 ## 🖼️ Project Image (Optional)
 
-![Traffic Light System](./project-image.png)
+![Traffic Light System](./IMG_4515.png)
+![Traffic Light System](./IMG_4516.png)
+![Traffic Light System](./IMG_4517.png)
 
 > Replace `project-image.png` with your actual image file name, or remove this section if no image is added.
