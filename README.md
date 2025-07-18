@@ -33,7 +33,7 @@ A smart traffic light control system using **Arduino Uno** and **IR sensor**, si
 
 ## 📄 Project Report
 
-📥 [MayarWaleedNawas120220147(TLMS)2.pdf](./MayarWaleedNawas120220147(TLMS)2.pdf)
+📥 [MayarWaleedNawas120220147(TLMS)2.pdf](./MayarWaleedNawas120220147%28TLMS%292.pdf)
 
 ---
 
